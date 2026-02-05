@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+p{
+    background-color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+* ins{
+    background-color: yellow;
+    font-size: 30px;
+}
+
+.namesList{
+    background-color: aqua;
+    font-size: 20px;
+    font-style: oblique;
+}
+
+#headTwo{
+    color:brown;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
