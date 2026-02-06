@@ -1,0 +1,15 @@
+#designed{
+    border-collapse: collapse;
+}
+#designed th, td{
+    border: 4px solid black;
+    text-align: center;
+    padding: 20px;
+}
+#designed tr th{
+    background-color: aqua;
+    font-weight: bold;
+}
+#designed tr{
+    height: 25px;
+}
