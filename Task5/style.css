@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    background-color: #A0834D;
+    padding: 20px;
+    margin: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mainGrid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #CA9A40;
+    margin: 40px;
+    padding: 30px;
+    grid-gap: 70px;
+    
+}
+
+.gridItem{
+    background-color: #A0834D;
+    align-items: center;
+    padding: 20px;
+}
+.description{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+}
+.image{
+    width: 100%;
+    height: 250px;
+}
+.button{
+    background-color: #CA9A40;
+    border: 0 solid #CA9A40;
+    width: 100%;
+    padding: 5px;
+
+}
+a{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+a:hover{
+    color: blue;
+}
+.button:hover{
+    background-color: white;
+}
